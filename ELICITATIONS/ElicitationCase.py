@@ -1,1 +1,1 @@
-wrk_dir = 'Cotopaxi'
+wrk_dir = 'MVO_test_28JUN24'
