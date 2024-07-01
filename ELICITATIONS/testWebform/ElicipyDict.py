@@ -13,7 +13,7 @@ Repository = 'testWebform'
 output_dir = 'OUTPUT'
 
 # comment if there is ony one language
-language = 'ENG'
+# language = 'ENG'
 
 analysis = True
 target = True
