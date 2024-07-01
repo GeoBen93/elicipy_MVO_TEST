@@ -1,11 +1,11 @@
 elicitation_name = 'test'
 
 # datarepo can be 'local' or 'github'
-datarepo = 'local'
+datarepo = 'github'
 
 # if datarepo is 'github' you need user and token to access it
-# user = ''
-# github_token = ''
+user = 'GeoBen93'
+github_token = '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'
 
 # folder or repository with data
 Repository = 'testWebform'
