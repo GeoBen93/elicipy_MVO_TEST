@@ -1,7 +1,7 @@
 Repository = 'testWebform'
 
 # this can be 'seed' or 'target'
-quest_type = 'seed'
+quest_type = 'target'
 
 group_list = ['Group A', 'Group B', 'Group C']
 
@@ -10,15 +10,15 @@ group_list = ['Group A', 'Group B', 'Group C']
 absolute_indexing = True
 
 # select 'github' or 'local'
-datarepo = 'local'
+# datarepo = 'local'
 
-# datarepo = 'github'
-# RepositoryData = 'createWebformAnswers'
+datarepo = 'github'
+RepositoryData = 'elicitation_data'
 
 # encrypted = False
 
-# user = 'username'
-# github_token = "token"
+user = 'geoben93'
+github_token = "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"
 
 pctls = [5, 50, 95]
 # companion_document = ""
