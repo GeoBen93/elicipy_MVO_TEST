@@ -30,8 +30,8 @@ confirmation_email = False
 # fill the following fields, if 'github' add to streamlit
 # secrets
 
-# SENDER_ADDRESS
-# SENDER_PASSWORD
-# SENDER_NAME
-# SMTP_SERVER_ADDRESS
-# PORT
+SENDER_ADDRESS="ogdoadme@yahoo.co.uk"
+SENDER_PASSWORD="#Chamonix16"
+SENDER_NAME="Ben Clarke"
+SMTP_SERVER_ADDRESS="smtp.yahoo.mail.com"
+PORT="465"
