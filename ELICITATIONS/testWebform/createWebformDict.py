@@ -13,7 +13,7 @@ absolute_indexing = True
 # datarepo = 'local'
 
 datarepo = 'github'
-RepositoryData = 'elicitation_data/testWebform'
+RepositoryData = 'elicitation_data'
 
 # encrypted = False
 
